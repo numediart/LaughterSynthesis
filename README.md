@@ -1,6 +1,6 @@
 # LaughterSynthesis
 
-This repository contains implementations of laughter synthesis systems.
+This repository contains implementations of laughter synthesis systems. And the samples used for the MOS test in [[2]](#2).
 
 ### For reproducibility of the ICASSP 2015 paper [[1]](#1).
 
